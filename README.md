@@ -103,6 +103,10 @@ Choose `N` when prompted to remove `/usr/bin/aut` and `/usr/share/aut`.
   not transparently route all system traffic.
 - Keep test rates low and respect the terms and rules of every network you use.
 
+## Orospor Labs
+
+More projects and updates: [Orospor](https://orospor.com).
+
 ## License
 
 Use and modify this project responsibly under the license terms published in
